@@ -7,24 +7,23 @@ AmbienteFest es una aplicación web React que conecta a usuarios con proveedores
 ## Características Principales
 
 ### Para Usuarios No Registrados
-- ✅ Navegar por servicios y blog
-- ✅ Ver detalles de servicios
-- ✅ Leer artículos del blog
-- ❌ No pueden comentar ni comprar
+-  Navegar por servicios y blog
+-  Ver detalles de servicios
+-  Leer artículos del blog
+-  No pueden comentar ni comprar
 
 ### Para Usuarios Registrados (Clientes)
-- ✅ Todas las funciones de usuarios no registrados
-- ✅ Agregar servicios al carrito
-- ✅ Realizar compras (simulado)
-- ✅ Comentar en blogs
-- ✅ Crear nuevos blogs informativos
+- Todas las funciones de usuarios no registrados
+- Agregar servicios al carrito
+-  Realizar compras (simulado)
+- Comentar en blogs
+-  Crear nuevos blogs informativos
 
 ### Para Administradores
-- ✅ Todas las funciones de clientes
-- ✅ Crear, editar y eliminar servicios
-- ✅ Gestionar usuarios
-- ✅ Ver reportes y estadísticas
-- ✅ Panel de administración completo
+-  Todas las funciones de clientes
+-  Crear, editar y eliminar servicios
+-  Gestionar usuarios y blogs
+-  Panel de administración completo
 
 ## Tecnologías Utilizadas
 
@@ -67,39 +66,39 @@ Puedes registrarte como nuevo usuario usando:
 
 ## Funcionalidades Implementadas
 
-### 🏠 Página Home
+###  Página Home
 - Hero con llamado a la acción
 - Servicios destacados
 - Sección "Nosotros"
 - Formulario de contacto
 - Efectos de cotillón animado
 
-### 🛍️ Catálogo de Servicios
+###  Catálogo de Servicios
 - Filtros por categoría, precio y valoración
 - Cards con información detallada
 - Modal de detalle de servicio
 - Botón "Agregar al carrito" (solo usuarios logueados)
 
-### 📝 Sistema de Blog
+###  Sistema de Blog
 - Visualización de artículos informativos
 - Creación de nuevos blogs (usuarios logueados)
 - Sistema de comentarios
 - Modal de detalle de blog
 
-### 🛒 Carrito de Compras
+###  Carrito de Compras
 - Gestión de servicios agregados
 - Cálculo de totales con IVA
 - Simulación de proceso de pago
 - Solo accesible para usuarios logueados
 
-### 🔐 Autenticación
+###  Autenticación
 - Login con validación
 - Registro de nuevos usuarios
 - Validación de emails (.duoc.cl, .profesor.duoc.cl, .gmail.com)
 - Validación de RUN chileno
 - Persistencia de sesión
 
-### ⚙️ Panel de Administración
+###  Panel de Administración
 - CRUD completo de servicios
 - Gestión de usuarios
 - Reportes y estadísticas
@@ -109,10 +108,10 @@ Puedes registrarte como nuevo usuario usando:
 ## Diseño y UX
 
 ### Responsive Design
-- ✅ Diseño completamente responsive
-- ✅ Bootstrap Grid System
-- ✅ Menú colapsable en móviles
-- ✅ Cards que se adaptan automáticamente
+-  Diseño completamente responsive
+- Bootstrap Grid System
+-  Menú colapsable en móviles
+- Cards que se adaptan automáticamente
 
 ### Paleta de Colores
 - **Principal:** Fucsia (#e10098) - Para el sitio público
